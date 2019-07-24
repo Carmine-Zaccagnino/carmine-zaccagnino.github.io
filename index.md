@@ -2,7 +2,7 @@
 
 carminezacc.com
 
-- [My Blog(WIP)](http://blog.carminezacc.com/)
+- [My Blog(WIP)](https://www.carmine.dev/)
 - [Follow me on Twitter](https://twitter.com/carminezacc)
 - [Check Out My Stories on Medium](https://medium.com/@carminezaccagnino)
 - [Check Out Programming Flutter: Native, Cross-Platform Apps the Easy Way](https://pragprog.com/book/czflutr/programming-flutter)
