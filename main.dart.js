@@ -37384,8 +37384,8 @@ MG:function(a){var u=a.b
 if(u<500)return 1
 if(u<800)return 2
 return C.e.cJ(u,250)},
-M:function(a){var u=null,t=X.RS(u,C.hK),s=L.H7("Carmine Zaccagnino",u)
-return new S.ok(new M.po(new E.mx(new T.hp(C.ai,u,u,s,u),new P.P(1/0,56),u),new A.Ah(new F.Bu(this),u),u),"Flutter Demo",t,u)}}
+M:function(a){var u="Carmine Zaccagnino",t=null,s=X.RS(t,C.hK),r=L.H7(u,t)
+return new S.ok(new M.po(new E.mx(new T.hp(C.ai,t,t,r,t),new P.P(1/0,56),t),new A.Ah(new F.Bu(this),t),t),u,s,t)}}
 F.Bu.prototype={
 $2:function(a,b){var u,t=null,s=this.a,r=s.MG(b)
 s=s.c
